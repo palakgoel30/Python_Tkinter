@@ -9,8 +9,8 @@ Step 4: Entering into main event Loop to perform action.
 Widgets:- Widgets is a element of gui that displays information.</br>
 Mainloop:- basically it is an infinite loop that runs application ,wait for a event, and processes it as soon as window is open. 
 <H1> WIDGETS</H1>
-Label : Add text,images, Apply different types of attributes.
-Button : Add button
+Label : Add text,images, Apply different types of attributes.</br>
+Button : Add button</br>
 Entry : To get the input,Apply border effect using bd.
 
 <H1> Geometry configuration of widgets</H1>
