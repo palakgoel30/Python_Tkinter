@@ -7,14 +7,14 @@ main_window.maxsize(width=800, height=500)  # Initialize the maximum size of gui
 
 # Different types of Widgets
 # LABEL
-l1 = Label(main_window, text="Music Music !!",bg = 'Black',fg = 'white')
+l1 = Label(main_window, text="Music Music !!", bg='Black', fg='white')
 l1.pack()
-#l1.grid(row=8,column=5)  # Use grid for l1 label
-#l1.place(x=50,y =70)
+# l1.grid(row=8,column=5)  # Use grid for l1 label
+# l1.place(x=50,y =70)
 i1 = PhotoImage(file="C:/Users/gpala/Desktop/Palak/Code/Python_Tkinter/images/logo.png")
 
 l2 = Label(main_window, image=i1)
 l2.pack()
-#l2.place(x=10,y=70)
-#l2.grid(row=4,column=5)
+# l2.place(x=10,y=70)
+# l2.grid(row=4,column=5)
 main_window.mainloop()  # Step4 creates a main loop
