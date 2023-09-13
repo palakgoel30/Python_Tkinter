@@ -14,6 +14,8 @@ Button : Add button</br>
 CheckButton : It is used to show a selection of choices as checkboxes.</br>
 Entry : To get the input,Apply border effect using bd.</br>
 Frame : It serves as a container and used to organize the widgets.(cursor,bg,height,width,bd)</br>
+Listbox : It is used to give a user with a list of options.(bg,bd,height,width,image,font)</br>
+
 
 
 <H1> Genize the widgets.ometry configuration of widgets</H1>
