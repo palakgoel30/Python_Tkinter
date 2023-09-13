@@ -11,7 +11,7 @@ l1 = Label(main_window, text="Music Music !!", bg='Black', fg='white')
 l1.pack()
 # l1.grid(row=8,column=5)  # Use grid for l1 label
 # l1.place(x=50,y =70)
-i1 = PhotoImage(file="C:/Users/gpala/Desktop/Palak/Code/Python_Tkinter/images/logo.png")
+i1 = PhotoImage(file="images/logo.png")
 
 l2 = Label(main_window, image=i1)
 l2.pack()

@@ -11,7 +11,8 @@ Mainloop:- basically it is an infinite loop that runs application ,wait for a ev
 <H1> WIDGETS</H1>
 Label : Add text,images, Apply different types of attributes.</br>
 Button : Add button</br>
-Entry : To get the input,Apply border effect using bd.
+CheckButton : It is used to show a selection of choices as checkboxes.</br>
+Entry : To get the input,Apply border effect using bd.</br>
 
 <H1> Geometry configuration of widgets</H1>
 pack() : it is used to place a widget on top.</br>
